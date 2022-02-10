@@ -11,3 +11,6 @@
 
 
 [Асинхронное скачивание файлов](/async-download.ipynb) [![Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/PyAcademy/PythonTips/blob/main/async-download.ipynb)
+
+
+[Захват экрана в Windows](/d3dshot.ipynb)
