@@ -14,3 +14,6 @@
 
 
 [Захват экрана в Windows](/d3dshot.ipynb)
+
+
+[Работаем с картинками в Pillow](/pillow.ipynb)
