@@ -17,3 +17,6 @@
 
 
 [Работаем с картинками в Pillow](/pillow.ipynb)
+
+
+[Котировки акций в yfinance](/yfinance.ipynb)
