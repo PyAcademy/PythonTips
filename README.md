@@ -22,4 +22,4 @@
 [Котировки акций в yfinance](/yfinance.ipynb)
 
 
-[Строим графики в plotly](/plotly.ipynb) [![Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/PyAcademy/PythonTips/blob/main/aplotly.ipynb)
+[Строим графики в plotly](/plotly.ipynb) [![Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/PyAcademy/PythonTips/blob/main/plotly.ipynb)
